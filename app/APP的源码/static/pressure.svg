@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" fill="none">
+  <circle cx="30" cy="30" r="28" fill="#F3E5F5" stroke="#7B1FA2" stroke-width="2"/>
+  <!-- 气压计图标 -->
+  <circle cx="30" cy="28" r="14" stroke="#7B1FA2" stroke-width="2" fill="none"/>
+  <line x1="30" y1="28" x2="30" y2="18" stroke="#7B1FA2" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="28" x2="38" y2="30" stroke="#7B1FA2" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="30" cy="28" r="2" fill="#7B1FA2"/>
+  <text x="30" y="48" text-anchor="middle" font-size="8" fill="#7B1FA2">kPa</text>
+</svg>

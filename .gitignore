@@ -1,0 +1,35 @@
+# uni-app build output
+unpackage/
+node_modules/
+
+# Private keys
+*.keystore
+*.jks
+.env
+.env.*
+secrets.h
+credentials.h
+config_private.h
+
+# Keil generated files
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.hex
+*.bin
+*.dep
+*.bak
+*.uvguix.*
+
+# IDE and system files
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
